@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\htc-final-project-McFetridge\bin\Debug\netcoreapp2.2\htc-final-project-McFetridge.deps.json
+C:\Users\User\Desktop\htc-final-project-McFetridge\bin\Debug\netcoreapp2.2\htc-final-project-McFetridge.runtimeconfig.json
+C:\Users\User\Desktop\htc-final-project-McFetridge\bin\Debug\netcoreapp2.2\htc-final-project-McFetridge.runtimeconfig.dev.json
+C:\Users\User\Desktop\htc-final-project-McFetridge\bin\Debug\netcoreapp2.2\htc-final-project-McFetridge.dll
+C:\Users\User\Desktop\htc-final-project-McFetridge\bin\Debug\netcoreapp2.2\htc-final-project-McFetridge.pdb
+C:\Users\User\Desktop\htc-final-project-McFetridge\obj\Debug\netcoreapp2.2\htc-final-project-McFetridge.csprojAssemblyReference.cache
+C:\Users\User\Desktop\htc-final-project-McFetridge\obj\Debug\netcoreapp2.2\htc-final-project-McFetridge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\htc-final-project-McFetridge\obj\Debug\netcoreapp2.2\htc-final-project-McFetridge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\htc-final-project-McFetridge\obj\Debug\netcoreapp2.2\htc-final-project-McFetridge.AssemblyInfo.cs
+C:\Users\User\Desktop\htc-final-project-McFetridge\obj\Debug\netcoreapp2.2\htc-final-project-McFetridge.dll
+C:\Users\User\Desktop\htc-final-project-McFetridge\obj\Debug\netcoreapp2.2\htc-final-project-McFetridge.pdb
